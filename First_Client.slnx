@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="First_Client/First_Client.csproj" />
+  <Project Path="Second_Client/Second_Client.csproj" />
+  <Project Path="Tic_Tak_Toe/Tic_Tak_Toe.csproj" />
+</Solution>
